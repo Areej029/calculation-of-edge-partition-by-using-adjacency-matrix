@@ -1,0 +1,1 @@
+# calculation-of-edge-partition-by-using-adjacency-matrix
